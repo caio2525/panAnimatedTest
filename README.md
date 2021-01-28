@@ -1,0 +1,1 @@
+PanGestureHandler e Animated.View
